@@ -1,3 +1,7 @@
+<div style="text-align: center">
+ <img src="https://64.media.tumblr.com/29b9343466f7e07b0abe231f73981f99/54b044c3d1ec0fab-df/s500x750/ae90333c9281b201ead90c0bf418341a8197e08e.gifv" style="width: 1000px; height: auto">
+</div>
+
 <h1 align="center">Hello everyone! I'm Tebaxmun <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRjdXcwaTJrZGxvZnhsN2Zqem83c280cXE5Yjl5MXlid2ZweTkwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhoNyvVjuB88HjDK0l/giphy.gif" width="35"></h1>
 <p align="center">
 
@@ -44,4 +48,8 @@ I am a Software Engineer student, I'm currently learning HTML (really basic, I k
  [![](https://github-readme-stats.vercel.app/api?username=Tebaxmun&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Tebaxmun)
  [![](https://github-readme-streak-stats.herokuapp.com/?user=Tebaxmun&theme=material-palenight)](https://github.com/Tebaxmun)
 
+</div>
+
+<div style="text-align: center">
+ <img src="https://64.media.tumblr.com/29b9343466f7e07b0abe231f73981f99/54b044c3d1ec0fab-df/s500x750/ae90333c9281b201ead90c0bf418341a8197e08e.gifv" style="width: 1000px; height: auto">
 </div>
