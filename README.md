@@ -35,3 +35,11 @@ I am a Software Engineer student, I'm currently learning HTML (really basic, I k
 </a>
 <a href="https://www.reddit.com/user/xSadBoiix/" target="_blank">
  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVraTRsMXRzcGthYzZ1Z29pNWl6bW5seTR0cGN5cGpmOTBkYXl4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RVWSqOsgDAq0W3051o/giphy.gif" width="30px"> ***GitHub Stats***
+<div align="center">
+ 
+ [![](https://github-readme-stats.vercel.app/api?username=Tebaxmun&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Tebaxmun)
+ [![](https://github-readme-streak-stats.herokuapp.com/?user=Tebaxmun&theme=material-palenight)](https://github.com/Tebaxmun)
+
+</div>
