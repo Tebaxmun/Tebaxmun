@@ -23,3 +23,15 @@ I am a Software Engineer student, I'm currently learning HTML (really basic, I k
 - 🖥️ Also, I reeeally love the old web aesthetics, so if you ever encounter some of my profiles, you might be able to notice that they have a bunch of blinkies and some other really nostalgic stuff (at least for me).
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNtZGF1dDBscjZ5ZDBhbXBqbmVyZzNobnFuMDB1YnpzYTVlOXgwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4ZcOp90meNVJG9Xh3H/giphy.gif" width="60px">***Check out my social media!***
+
+<a href="https://www.instagram.com/tebaxmun" target="_blank">
+ <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://tebaxmun.tumblr.com" target="_blank">
+ <img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white">
+</a>
+<a href="https://x.com/tebaxmun" target="_blank">
+ <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+</a>
+<a href="https://www.reddit.com/user/xSadBoiix/" target="_blank">
+ <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
