@@ -10,7 +10,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a Software Engineer student, I'm currently learning HTML (really basic, I know) because I love to have cute profiles on my social media and have them as personalized as I can 😅. I'm really passionate about learning as much as I can to create new ideas and bringing them to life ✨
- <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+ <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/EUmB8iNJmW8AAAAj/tkthao219-bunny.gif" />
 
 * **I am interested in Web designing, Android development, and learning a little bit about everything 🤩**
 
