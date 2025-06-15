@@ -12,10 +12,11 @@
 I am a Software Engineer student, I'm currently learning HTML (really basic, I know) because I love to have cute profiles on my social media and have them as personalized as I can 😅. I'm really passionate about learning as much as I can to create new ideas and bringing them to life ✨
  <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/GN73MKBawZYAAAAj/busy-cute.gif" />
 
-* **I am interested in Web designing, Android development, and learning a little bit about everything 🤩**
+* **I am interested in Web designing, Coding, Android development, and learning a little bit about everything 🤩**
 
 - 🌱 I’m currently learning ...
- 
+
+  - Python
   - HTML5
   - Java
   - React js
