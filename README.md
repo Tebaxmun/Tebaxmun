@@ -9,15 +9,16 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Software Engineer student, I'm currently learning HTML (really basic, I know) because I love to have cute profiles on my social media and have them as personalized as I can 😅. I'm really passionate about learning as much as I can to create new ideas and bringing them to life ✨
+I’m a Software Engineering student currently learning HTML, Python, and Prolog. I love designing personalized profiles for my social media and developing small apps inspired by my ideas. I’m passionate about continuous learning and bringing creative concepts to life through technology. ✨
  <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/GN73MKBawZYAAAAj/busy-cute.gif" />
-
-* **I am interested in Web designing, Coding, Android development, and learning a little bit about everything 🤩**
+ 
+* **I'm interested in Web designing, Coding, Backend, and learning a little bit about everything 🤩**
 
 - 🌱 I’m currently learning ...
 
   - Python
   - HTML5
+  - Prolog
   - Java
   - React js
 
