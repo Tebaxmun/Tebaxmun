@@ -10,10 +10,11 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I’m a Software Engineering student currently learning HTML, Python, and Prolog. I love designing personalized profiles for my social media and developing small apps inspired by my ideas. I’m passionate about continuous learning and bringing creative concepts to life through technology. ✨
- <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/GN73MKBawZYAAAAj/busy-cute.gif" />
  
 * **I'm interested in Web designing, Coding, Backend, and learning a little bit about everything 🤩**
-
+  
+ <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/GN73MKBawZYAAAAj/busy-cute.gif" />
+ 
 - 🌱 I’m currently learning ...
 
   - Python
@@ -21,6 +22,8 @@ I’m a Software Engineering student currently learning HTML, Python, and Prolog
   - Prolog
   - Java
   - React js
+  - R
+  - Streamlit
 
 - 🤓 I’m looking forward to discover interesting codes on GitHub and learn from them as much as I can.
 
