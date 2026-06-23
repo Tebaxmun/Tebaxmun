@@ -13,9 +13,10 @@ I’m a Software Engineering student currently learning HTML, Python, and Prolog
  
 * **I'm interested in Web designing, Coding, Backend, and learning a little bit about everything 🤩**
   
- <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/GN73MKBawZYAAAAj/busy-cute.gif" />
  
 - 🌱 I’m currently learning ...
+
+  <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/GN73MKBawZYAAAAj/busy-cute.gif" />
 
   - Python
   - HTML5
