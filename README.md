@@ -24,6 +24,12 @@ I’m a Software Engineering student currently learning HTML, Python, and Prolog
   - React js
   - R
   - Streamlit
+  - Git
+  - Unity
+  - Autodesk
+  - Virtual Machines
+  - Databases
+  - SQL
 
 - 🤓 I’m looking forward to discover interesting codes on GitHub and learn from them as much as I can.
 
