@@ -9,7 +9,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I’m a Software Engineering student currently learning HTML, Python, and Prolog. I love designing personalized profiles for my social media and developing small apps inspired by my ideas. I’m passionate about continuous learning and bringing creative concepts to life through technology. ✨
+I’m a Software Engineering student who loves blending code with creativity. I enjoy experimenting with personalized web spaces and bringing my ideas to life through small, fun projects as I expand my skills. For me, every line of code is a step toward learning something new. ✨
  
 * **I'm interested in Web designing, Coding, Backend, and learning a little bit about everything 🤩**
   
