@@ -35,7 +35,7 @@ I’m a Software Engineering student who loves blending code with creativity. I 
 - 🤓 I’m looking forward to discover interesting codes on GitHub and learn from them as much as I can.
 
 - 📖 I love to read romantic novels (mostly homoromantic ones), some horror novels as well and a little bit of history drama.
-- 🎵 I love listening to music, that's why I decided to learn how to play the guitar (I'm not so bad at it right not, but definetly not a pro guitarist either, lol)
+- 🎵 I love listening to music, that's why I decided to learn how to play the guitar (I'm not so bad at it right now, but definetly not a pro guitarist either, lol)
 - 🖥️ Also, I reeeally love the old web aesthetics, so if you ever encounter some of my profiles, you might be able to notice that they have a bunch of blinkies and some other really nostalgic stuff (at least for me).
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNtZGF1dDBscjZ5ZDBhbXBqbmVyZzNobnFuMDB1YnpzYTVlOXgwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4ZcOp90meNVJG9Xh3H/giphy.gif" width="60px">***Check out my social media!***
